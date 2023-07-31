@@ -30,12 +30,16 @@
 即回放賽道名稱未顯示之選項，如下圖：  
 ![image](https://github.com/KennyYang0726/KartRider_TW/blob/main/picture1.png)
 
- ## 下載方法
-右側 Release 的 zip，直接下載即可
+**_載點_**
+ - 台服單機版：https://cutt.ly/KartRider_TW_2023
 
  ## 作者介紹
  LAON：新一代跑跑卡丁車單機版之神 (韓國人)  
  YT頻道：https://www.youtube.com/@user-xu9yl9ht6o  
- 裡面前有他製作的最新陸服單機版
+ 裡面目前有他製作的最新陸服單機版，你們的支持是他更新的動力
+
+ ## 其他載點
+ - KartRider_5136：https://cutt.ly/KartRider_5136
+ - PPKartRider_2020_Client(可多人遊戲和AI對戰)：https://cutt.ly/PPKartRider_2020_Client
 
  
