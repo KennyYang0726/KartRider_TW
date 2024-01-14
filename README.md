@@ -52,11 +52,11 @@
  ## 作者介紹
  LAON：新一代跑跑卡丁車單機版之神 (韓國人)  
  YT頻道：https://www.youtube.com/@user-xu9yl9ht6o  
- 他有些影片為期間限制，若時間過了會把影片撤下，這邊保留了2個， 5136 及陸服單機(有遊俠V1)
+ 他有些影片為期間限制，若時間過了會把影片撤下，這邊保留了2個， 5136(韓服關服前樣子) 及陸服單機(有遊俠V1)
 
  ## 其他載點
  - KartRider_5136：https://cutt.ly/KartRider_5136
- - 跑跑陸服單機版(KartRider_CN_20230728_Facelift)：https://cutt.ly/KartRider_CN_20230728_Facelift
+ - 跑跑陸服單機版(KartRider_CN_20240114_Dragon)：https://cutt.ly/KartRider_CN_20240114_Dragon
  - PPKartRider_2020_Client(可多人遊戲和AI對戰)：https://cutt.ly/PPKartRider_2020
 
  
