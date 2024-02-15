@@ -56,7 +56,7 @@
 
  ## 其他載點
  - KartRider_5136：https://cutt.ly/KartRider_5136
- - 跑跑陸服單機版：https://cutt.ly/KartRider_CN_20240114_Dragon
- - PPKartRider_2020_Client(可多人遊戲和AI對戰)：https://cutt.ly/PPPKartRider_2020
+ - 跑跑陸服單機版：https://cutt.ly/KartRider_CN_20240215_Dragon
+ - PPKartRider_2020_Client(可多人遊戲和AI對戰)：https://cutt.ly/PPKartRider_2020
 
  
