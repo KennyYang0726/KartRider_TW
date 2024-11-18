@@ -6,7 +6,7 @@
  ## 2024/09/13 更新 (不再更新)
 
 **_載點_**
- - 台服單機版：https://cutt.ly/KartRider_TW_20231230
+ - 台服單機版：https://cutt.ly/KartRider_TW_folder
 
  ## 作者
  LAON：新一代跑跑卡丁車單機版之神 (韓國人)  
